@@ -1,1 +1,6 @@
 # Train-Management-System
+<p align="justify"> Your Text </p>This code represents a ticket booking system implemented in C++. It consists of three classes: Train, Ticket, and Passenger, and one superclass, User. The Train class represents the train trips and their details, including their destination, origin, price, number of seats, and remaining seats. The Ticket class inherits from the Train class and adds the number of seats reserved for a specific trip. The Passenger class represents a user of the system, with the user's name, email, password, and booking history. The User superclass is used as a base class for the Passenger class.</p>
+
+<p align="justify"> Your Text </p>The code allows the user to book and cancel tickets for a specific trip by interacting with the Train and Passenger classes. The Passenger can view the available trips, select a trip, enter the number of seats they want to book, and confirm the booking. The Train class updates the remaining number of seats after each booking.</p>
+
+<p align="justify"> Your Text </p>The code provides a simple command-line interface for the user to interact with the booking system. The Train, Ticket, and Passenger classes have methods to display their respective information.</p>
